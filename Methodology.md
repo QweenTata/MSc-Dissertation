@@ -26,3 +26,5 @@ Integration and Methodology Refinement:
 
 The project will utilize these tools identified in the literature review to create a comprehensive penetration testing strategy, guaranteeing a methodical and comprehensive evaluation process.
 The project will adopt Agile methodology to remain flexible and iterative, addressing vulnerabilities identified during the testing phases efficiently.
+![Architecture](https://github.com/user-attachments/assets/e6d509a0-4407-4cc4-9d69-3c507987ff7d)
+
