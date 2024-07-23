@@ -1,4 +1,4 @@
-"LocalServiceComponent.exe" appears to be a Windows executable file, which suggests it's designed to run on the Windows operating system rather than on Linux distributions like Kali Linux. However, if you need to run a Windows executable on Kali Linux, you can use Wine, a compatibility layer that allows you to run Windows applications on Unix-like operating systems.
+"LocalServiceComponents.exe" appears to be a Windows executable file, which suggests it's designed to run on the Windows operating system rather than on Linux distributions like Kali Linux. However, if you need to run a Windows executable on Kali Linux, you can use Wine, a compatibility layer that allows you to run Windows applications on Unix-like operating systems.
 
 Here's how to install and use Wine to run `LocalServiceComponent.exe` on Kali Linux:
 
@@ -19,11 +19,11 @@ After installation, verify the version of Wine to ensure it's installed correctl
 wine --version
 ```
 
-### 3. Download `LocalServiceComponent.exe`
-Ensure you have the `LocalServiceComponent.exe` file on your system. If it's not already downloaded, you can use a web browser or a command-line tool like `wget` to download it.
+### 3. Download `LocalServiceComponents.exe`
+Ensure you have the `LocalServiceComponents.exe` file on your system. If it's not already downloaded, you can use a web browser or a command-line tool like `wget` to download it.
 
-### 4. Run `LocalServiceComponent.exe` using Wine
-Navigate to the directory where `LocalServiceComponent.exe` is located. For example, if it's in your `Downloads` folder:
+### 4. Run `LocalServiceComponents.exe` using Wine
+Navigate to the directory where `LocalServiceComponents.exe` is located. For example, if it's in your `Downloads` folder:
 ```bash
 cd ~/Downloads
 ```
@@ -66,4 +66,4 @@ Here are the commands summarized:
    wine LocalServiceComponent.exe
    ```
 
-Using these steps, you should be able to install and run `LocalServiceComponent.exe` on Kali Linux.
+Using these steps, you should be able to install and run `LocalServiceComponents.exe` on Kali Linux.
