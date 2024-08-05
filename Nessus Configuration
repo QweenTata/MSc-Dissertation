@@ -1,12 +1,12 @@
 To install Nessus on your Kali Linux system, follow these steps:
 
-#Download Nessus:
+# Download Nessus:
 
 Go to the Tenable download page for Nessus: Tenable Nessus Downloads.
 Select the appropriate package for Debian-based systems (Kali Linux is based on Debian). Usually, this will be the .deb package.
 Install Nessus:
 
-#Open a terminal on your Kali system.
+# Open a terminal on your Kali system.
 Navigate to the directory where the Nessus package was downloaded, or provide the full path to the downloaded file.
 Install the package using the dpkg command. For example:
 bash
